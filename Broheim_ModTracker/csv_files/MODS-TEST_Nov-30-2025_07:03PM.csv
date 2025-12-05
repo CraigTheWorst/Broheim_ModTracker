@@ -1,0 +1,148 @@
+PROFILE STATISTICS
+""
+Profile Name:,MODS-TEST
+Export Date:,2025-11-30 19:03:55
+Total Mods:,112
+Enabled Mods:,112
+Disabled Mods:,0
+Unique Authors:,39
+""
+TOP AUTHORS (by mod count)
+blacks7ar,12 mods
+Azumatt,11 mods
+Smoothbrain,11 mods
+OdinPlus,8 mods
+warpalicious,8 mods
+""
+NEWEST MODS (by version)
+Mod Name,Author,Version
+YamlDotNet,ValheimModding,16.3.1
+JsonDotNET,ValheimModding,13.0.4
+HoneyPlus,OhhLoz,6.1.0
+BepInExPack_Valheim,denikson,5.4.2333
+Seasonality,RustyMods,3.7.3
+""
+OLDEST MODS (by version)
+Mod Name,Author,Version
+MarlthonCore,Marlthon,0.0.2
+ExplorersVision,Searica,0.1.1
+StopChoppyAudio,Neobotics,0.1.2
+BetterBallistas,Neobotics,0.1.2
+Clutter,plumga,0.1.7
+""
+""
+COMPLETE MOD LIST
+""
+Author,Mod Name,Version,Enabled,Description,Website
+Advize,PlantEasily,2.0.3,Yes,"Allows you to plant evenly spaced crops, either one at a time or in any amount of rows and columns, with grid snapping features and invalid crop placement prevention. Harvest in bulk and optionally auto replant crops. Configurable and supports gamepad.",https://thunderstore.io/c/valheim/p/Advize/PlantEasily/
+Advize,PlantEverything,1.20.0,Yes,"Allows your cultivator to plant berry bushes, thistle, dandelions, mushrooms, previously unavailable tree types, and other decorative flora. Includes many other miscellaneous features (see description). Highly configurable with localization support.",https://thunderstore.io/c/valheim/p/Advize/PlantEverything/
+Azumatt,AzuAreaRepair,1.1.6,Yes,Repair pieces in a specified area around the player when using the hammer to repair. Code pulled from OdinsQOL,https://thunderstore.io/c/valheim/p/Azumatt/AzuAreaRepair/
+Azumatt,AzuExtendedPlayerInventory,1.4.12,Yes,"AzuEPI is Extended Player Inventory from OdinsQOL pulled out for your modular pleasure. Currently pulled out as is, but soon get a rewrite of sorts!",https://thunderstore.io/c/valheim/p/Azumatt/AzuExtendedPlayerInventory/
+Azumatt,AzuMiscPatches,1.2.8,Yes,Collection of patches from OdinQOL that didn't really have a home in a mod of their own,https://thunderstore.io/c/valheim/p/Azumatt/AzuMiscPatches/
+Azumatt,AzuWearNTearPatches,1.0.8,Yes,"Patches that alter the wear and tear component of build pieces (Walls, ships, carts & shit). Structural integrity, damage and weather options.",https://thunderstore.io/c/valheim/p/Azumatt/AzuWearNTearPatches/
+Azumatt,AzuWorkbenchTweaks,1.0.5,Yes,A mod that changes some behaviour of workbenches.,https://thunderstore.io/c/valheim/p/Azumatt/AzuWorkbenchTweaks/
+Azumatt,BowsBeforeHoes,1.3.11,Yes,Bow and Quiver mod. Some tweaks available for archery. 50% chance to return arrows on hit (configurable). This mod is a work in progress with more quivers and features to come.,https://thunderstore.io/c/valheim/p/Azumatt/BowsBeforeHoes/
+Azumatt,Build_Camera_Custom_Hammers_Edition,1.2.8,Yes,Adds a build camera to your vanilla and custom hammers. Taken over from the original mod by Azumatt.,https://thunderstore.io/c/valheim/p/Azumatt/Build_Camera_Custom_Hammers_Edition/
+Azumatt,HaulersHelper,1.0.4,Yes,A mod that allows you to control the values on carts or things that use the cart script. Supports custom carts.,https://thunderstore.io/c/valheim/p/Azumatt/HaulersHelper/
+Azumatt,Recycle_N_Reclaim,1.3.10,Yes,A mod that allows you to recycle items back into resources used to make them. Adds a 'Reclaim' tab/button to the crafting menu. Additionally can be used inside of your inventory directly.,https://thunderstore.io/c/valheim/p/Azumatt/Recycle_N_Reclaim/
+Azumatt,SleepSkip,1.2.3,Yes,Server and Client mod that allows players to skip the night when a percentage of players agree to skip.,https://thunderstore.io/c/valheim/p/Azumatt/SleepSkip/
+Azumatt,WardIsLove,3.7.1,Yes,A dedicated ward mod. Based around the idea that wards should be individually configurable. Managed with a simple GUI interface for admins and ward owners (if allowed).,https://thunderstore.io/c/valheim/p/Azumatt/WardIsLove/
+BentoG,MissingPieces,2.2.2,Yes,A fix for what impedes your building fix.,https://thunderstore.io/c/valheim/p/BentoG/MissingPieces/
+BetterUI_ForeverMaintained,BetterUI_ForeverMaintained,2.5.9,Yes,"BetterUI once again fixed up for the masses. This time, it won't be abandoned.",https://thunderstore.io/c/valheim/p/BetterUI_ForeverMaintained/BetterUI_ForeverMaintained/
+blacks7ar,Agility,1.1.6,Yes,"A simple skill mod that increases your attack speed, walk speed, run speed and jump force as the skill levels up.",https://thunderstore.io/c/valheim/p/blacks7ar/Agility/
+blacks7ar,BeeKeeper,1.0.7,Yes,A simple mod that adds a new skill that increases beehives production rate and speed.,https://thunderstore.io/c/valheim/p/blacks7ar/BeeKeeper/
+blacks7ar,BowPlugin,1.8.5,Yes,"Allows you to configure velocity, accuracy, drawspeed, exp multiplier, crit chance, crit damage, bow crosshair and crosshair color of bows and crossbow weapons. Adds a few new crossbows and bows.",https://thunderstore.io/c/valheim/p/blacks7ar/BowPlugin/
+blacks7ar,CombatOverhaulREwrite,1.2.5,Yes,"A complete rewrite of CombatOverhaul by leseryk, will be taken down when the original author comes back and updates his mod.",https://thunderstore.io/c/valheim/p/blacks7ar/CombatOverhaulREwrite/
+blacks7ar,CoreWoodPieces,1.2.4,Yes,Extends vanilla corewood pieces and adds 23 more pieces that you can build.,https://thunderstore.io/c/valheim/p/blacks7ar/CoreWoodPieces/
+blacks7ar,Endurance,1.1.0,Yes,A simple skill mod that increases your stamina and stamina regen as the skill levels up.,https://thunderstore.io/c/valheim/p/blacks7ar/Endurance/
+blacks7ar,FineWoodBuildPieces,1.1.8,Yes,"As requested, split FineWoodPieces into 3 separate mods (ClayBuildPieces, FineWoodBuildPieces and FineWoodFurnitures)",https://thunderstore.io/c/valheim/p/blacks7ar/FineWoodBuildPieces/
+blacks7ar,FineWoodFurnitures,1.1.1,Yes,"As requested, split FineWoodPieces into 3 separate mods (ClayBuildPieces, FineWoodBuildPieces and FineWoodFurnitures)",https://thunderstore.io/c/valheim/p/blacks7ar/FineWoodFurnitures/
+blacks7ar,ResinCollector,1.1.6,Yes,"Requested by a NexusMod user, adds a new build piece that collects resins from trees.",https://thunderstore.io/c/valheim/p/blacks7ar/ResinCollector/
+blacks7ar,SNEAKer,1.1.7,Yes,A simple mod that makes your sneaking speed scaled by your Sneak skill level.,https://thunderstore.io/c/valheim/p/blacks7ar/SNEAKer/
+blacks7ar,VikingsDoSwim,1.4.0,Yes,"A simple mod that lets you configure Max Swim Speed at max swim skill level. Scales your swim speed, stamina regen and stamina consumption to your swim skill level. Adds a new diving mechanic that lets you swim underwater.",https://thunderstore.io/c/valheim/p/blacks7ar/VikingsDoSwim/
+blacks7ar,WieldEquipmentWhileSwimming,1.1.3,Yes,A simple mod that lets you wield your equipments while swimming/diving or in water (Configurable).,https://thunderstore.io/c/valheim/p/blacks7ar/WieldEquipmentWhileSwimming/
+coemt,Belts,1.1.6,Yes,"New belts with special powers that can be purchased at the trader or crafted, configurable",https://thunderstore.io/c/valheim/p/coemt/Belts/
+ComfyMods,SearsCatalog,1.8.0,Yes,Resize and reposition the build panel in-game.,https://thunderstore.io/c/valheim/p/ComfyMods/SearsCatalog/
+denikson,BepInExPack_Valheim,5.4.2333,Yes,BepInEx pack for Valheim. Preconfigured with the correct entry point for mods and preferred defaults for the community.,https://thunderstore.io/c/valheim/p/denikson/BepInExPack_Valheim/
+Digitalroot,Better_Wisps,1.0.42,Yes,Make the Wisp do a better job.,https://thunderstore.io/c/valheim/p/Digitalroot/Better_Wisps/
+Digitalroot,Digitalroots_Slope_Combat_Assistance,2.0.27,Yes,Digitalroot's take on the Slope Combat Fix mod. DoD compatible.,https://thunderstore.io/c/valheim/p/Digitalroot/Digitalroots_Slope_Combat_Assistance/
+flashybaps,BeastsOfBurdenEV,1.0.5,Yes,A fork of BeastsOfBurden by Clevels - Now with Hens & for EpicValheim!,https://thunderstore.io/c/valheim/p/flashybaps/BeastsOfBurdenEV/
+GoldenJude,Blacksmiths_tools,2.0.3,Yes,"Tool for hiding parts of the player model when equipping wearables, also a fix for incorrectly deforming skinned meshes on custom items.",https://thunderstore.io/c/valheim/p/GoldenJude/Blacksmiths_tools/
+GoldenJude,Judes_Equipment,2.3.0,Yes,Adds 9 new armor sets and 2 backpacks,https://thunderstore.io/c/valheim/p/GoldenJude/Judes_Equipment/
+Goldenrevolver,Greydwarves_Fear_Fire,1.0.1,Yes,Makes all greydwarves fear fire (not only avoid it) after killing the Elder (configurable),https://thunderstore.io/c/valheim/p/Goldenrevolver/Greydwarves_Fear_Fire/
+Goldenrevolver,Quick_Stack_Store_Sort_Trash_Restock,1.4.13,Yes,"Quick Stacking, Sorting, Trashing and more in one cohesive package",https://thunderstore.io/c/valheim/p/Goldenrevolver/Quick_Stack_Store_Sort_Trash_Restock/
+Goldenrevolver,Sneak_Camera_and_Collision_Height,1.0.2,Yes,Changes the height of the camera and the height of your character while sneaking,https://thunderstore.io/c/valheim/p/Goldenrevolver/Sneak_Camera_and_Collision_Height/
+HugotheDwarf,More_and_Modified_Player_Cloth_Colliders,3.1.0,Yes,"This Utility Tweaks the existing Cloth Colliders of the player, and adds more so that the Head, Arms, Lower Legs, and Feet can now interact with capes and cloaks. With much needed tweaks there are now two sets of colliders, 1 for capes, and 1 for armor.",https://thunderstore.io/c/valheim/p/HugotheDwarf/More_and_Modified_Player_Cloth_Colliders/
+JereKuusela,Projectile_Collision,1.7.0,Yes,Allows arrows to pass through iron cage floors and other similar structures.,https://thunderstore.io/c/valheim/p/JereKuusela/Projectile_Collision/
+JereKuusela,Server_devcommands,1.100.0,Yes,Enables devcommands and utilities for server admins.,https://thunderstore.io/c/valheim/p/JereKuusela/Server_devcommands/
+JereKuusela,Smoke_Collision,1.9.0,Yes,Allows smoke to pass through iron cage floors and other similar structures. Also allows changing the smoke size.,https://thunderstore.io/c/valheim/p/JereKuusela/Smoke_Collision/
+JereKuusela,Upgrade_World,1.74.0,Yes,A tool which can add new content to already explored areas.,https://thunderstore.io/c/valheim/p/JereKuusela/Upgrade_World/
+JuneGame,ForsakenPowerOverhaul,2.1.0,Yes,"Changes Forsaken Powers to have a Passive, an Equipped Passive, an Active, and a Shared Active Component. Includes Power Cycling. Fully Customizable.",https://thunderstore.io/c/valheim/p/JuneGame/ForsakenPowerOverhaul/
+kinghfb,Skald,1.0.2,Yes,Adds extra lore-friendly content to dreams and runestones.,https://thunderstore.io/c/valheim/p/kinghfb/Skald/
+Marlthon,Cats,0.2.5,Yes,"Bring cuteness, comfort, and a touch of purrfection to the harsh lands of Valheim!",https://thunderstore.io/c/valheim/p/Marlthon/Cats/
+Marlthon,FarmHeim,0.3.1,Yes,"Farm system with animals, vegetables, fruits, salads, meats, food, pies, buildings and items. Release the farmer within you.",https://thunderstore.io/c/valheim/p/Marlthon/FarmHeim/
+Marlthon,MarlthonCore,0.0.2,Yes,Base mod required for all free mods developed by Marlthon to work.,https://thunderstore.io/c/valheim/p/Marlthon/MarlthonCore/
+Marlthon,OdinShipPlus,0.6.9,Yes,"Add to your game the most beautiful and functional boats, in all there are 14 boats in the cargo, speed, fishing and war categories. (Please read the mod description.)",https://thunderstore.io/c/valheim/p/Marlthon/OdinShipPlus/
+MSchmoecker,FenceSnap,0.3.0,Yes,Adds snappoints to fences and sharp stakes,https://thunderstore.io/c/valheim/p/MSchmoecker/FenceSnap/
+MSchmoecker,HammerTime,0.3.11,Yes,Moves all pieces from custom hammers to the vanilla hammer,https://thunderstore.io/c/valheim/p/MSchmoecker/HammerTime/
+MSchmoecker,LocalizationCache,0.3.0,Yes,"A small mod that caches localization loading, which can help improve startup performance and reduce possible connection timeouts",https://thunderstore.io/c/valheim/p/MSchmoecker/LocalizationCache/
+MSchmoecker,MultiUserChest,0.6.1,Yes,Allows multiple players to interact with the same chest at the same time,https://thunderstore.io/c/valheim/p/MSchmoecker/MultiUserChest/
+MSchmoecker,TimeoutLimit,0.2.0,Yes,Increases the timeout while connecting to a server to avoid disconnecting too early,https://thunderstore.io/c/valheim/p/MSchmoecker/TimeoutLimit/
+nbusseneau,Better_Cartography_Table,0.8.1,Yes,"Allows precise control over sharing pins and map exploration via cartography tables. Supports private pins, public pins, and guild pins. Supports NoMap runs, giving cartography tables a purpose in NoMap. Translations available.",https://thunderstore.io/c/valheim/p/nbusseneau/Better_Cartography_Table/
+Neobotics,BetterBallistas,0.1.2,Yes,"Adjust the firing arc, detection range, speed, targeting and trophy limit of the ballista",https://thunderstore.io/c/valheim/p/Neobotics/BetterBallistas/
+Neobotics,StopChoppyAudio,0.1.2,Yes,Get rid of choppy audio! Improve performance.,https://thunderstore.io/c/valheim/p/Neobotics/StopChoppyAudio/
+Nextek,SpeedyPaths,1.0.9,Yes,Gives more purpose to paths. Increases player speed on paths and constructions. Reduces stamina consumed while sprinting on paths. Exposes optional modifiers for regular terrain in each biome. All values are tuneable.,https://thunderstore.io/c/valheim/p/Nextek/SpeedyPaths/
+OdinPlus,BeeQueen,1.0.19,Yes,A Bee Queen that will spawn around meadows on Clear Sky days!,https://thunderstore.io/c/valheim/p/OdinPlus/BeeQueen/
+OdinPlus,BetterLanterns,1.1.0,Yes,This mod adds an enhanced version of the Dvergr Lanterns as well as Wisp versions.,https://thunderstore.io/c/valheim/p/OdinPlus/BetterLanterns/
+OdinPlus,CraftyCartsRemake,3.1.9,Yes,Crafting stations on wheels! Comes with built in storage and lights,https://thunderstore.io/c/valheim/p/OdinPlus/CraftyCartsRemake/
+OdinPlus,OdinArchitect,1.6.2,Yes,Odin Architect is a mod that will allow you to build more with more structures and on a larger scale. You will find here not only larger counterparts of basic buildings but also completely new ones,https://thunderstore.io/c/valheim/p/OdinPlus/OdinArchitect/
+OdinPlus,OdinCampsite,1.6.1,Yes,Campsite is just simple mod for additional camping style peices!,https://thunderstore.io/c/valheim/p/OdinPlus/OdinCampsite/
+OdinPlus,OdinHorse,1.5.5,Yes,"Horse mount and new items! You can tame it, You can ride it, You can attach the Horse Cart, You can breed it, Add armor to your horse!",https://thunderstore.io/c/valheim/p/OdinPlus/OdinHorse/
+OdinPlus,OdinsFoodBarrels,1.2.1,Yes,"ModWish from OdinPlus Community - buildable dynamic storage containers for seeds, fruits, and vegetables!",https://thunderstore.io/c/valheim/p/OdinPlus/OdinsFoodBarrels/
+OdinPlus,OdinTrainingPlace,1.6.2,Yes,Training Place is just simple mod for additional pieces thanks to which you can level up Your skills faster or just use them as decoration of your village. If you're building lover this is definitely another mod for you.,https://thunderstore.io/c/valheim/p/OdinPlus/OdinTrainingPlace/
+OhhLoz,HoneyPlus,6.1.0,Yes,Adds new food items surrounding Honey,https://thunderstore.io/c/valheim/p/OhhLoz/HoneyPlus/
+plumga,Clutter,0.1.7,Yes,Adds a bunch of clutter and decor items.,https://thunderstore.io/c/valheim/p/plumga/Clutter/
+probablykory,UsefulTrophies,2.2.2,Yes,Improve your stats while reducing inventory clutter by consuming trophies.  Now with ServerSync!,https://thunderstore.io/c/valheim/p/probablykory/UsefulTrophies/
+Rabid_Wolf_Studios,Climbing,1.0.6,Yes,"Adds a Climbing skill to the game, which reduces stamina usage when running up steep inclines",https://thunderstore.io/c/valheim/p/Rabid_Wolf_Studios/Climbing/
+RandyKnapp,ImprovedBuildHud,1.0.8,Yes,Add the total can-build amount plus the player's current inventory count to the requirements.,https://thunderstore.io/c/valheim/p/RandyKnapp/ImprovedBuildHud/
+Revel,FleeOnSight,1.1.1,Yes,Trash mobs like greyling flee on sight when their forsaken is killed. (configurable),https://thunderstore.io/c/valheim/p/Revel/FleeOnSight/
+RustyMods,Almanac,3.7.1,Yes,"Achievements, Bounties, Treasure Hunt, Player Metrics, Leaderboard, Indexing, Marketplace, Lottery",https://thunderstore.io/c/valheim/p/RustyMods/Almanac/
+RustyMods,Seasonality,3.7.3,Yes,"Dynamic seasons by altering textures and colors, providing an immersive environmental experience that changes with time.",https://thunderstore.io/c/valheim/p/RustyMods/Seasonality/
+RustyMods,Shipwright,1.0.2,Yes,Repair ships without a crafting station using hammer and bucket tool,https://thunderstore.io/c/valheim/p/RustyMods/Shipwright/
+Searica,AdvancedTerrainModifiers,1.4.1,Yes,Quality of life building mod that improves how terrain manipulation with the hoe and cultivator works and adds new terrain manipulation tools.,https://thunderstore.io/c/valheim/p/Searica/AdvancedTerrainModifiers/
+Searica,DiscoveryPins,0.3.10,Yes,QoL Map Pins mod. Customizable pin colors and automatic pinning of things you discover and interact with.,https://thunderstore.io/c/valheim/p/Searica/DiscoveryPins/
+Searica,ExplorersVision,0.1.1,Yes,Configurable dynamic map explortation radius based on environmental visibility factors with optional configuration syncing if on server.,https://thunderstore.io/c/valheim/p/Searica/ExplorersVision/
+Searica,FortifySkillsRedux,1.5.3,Yes,"FortifySkillsRedux changes skill loss on death. Instead of being punished for dying by losing 5% of each skill, you are rewarded for staying alive longer. Each skill has a new fortified skill level that it resets to when you die.",https://thunderstore.io/c/valheim/p/Searica/FortifySkillsRedux/
+Searica,More_Vanilla_Build_Prefabs,1.4.4,Yes,Adds almost everything in the vanilla game to the hammer for building in survival mode. Every piece can be customized and enabled/disabled. Comes with a default configuration for ease of use. Uses Jotunn to sync configs if installed on server.,https://thunderstore.io/c/valheim/p/Searica/More_Vanilla_Build_Prefabs/
+shudnal,TradersExtended,1.3.12,Yes,"Trader specific buy and sell items lists. Store UI with sell list, filter and repair button. Gamepad support. Trader use coins. Markups and discounts.",https://thunderstore.io/c/valheim/p/shudnal/TradersExtended/
+Smoothbrain,Backpacks,1.3.6,Yes,Adds a very nice backpack and Build Your Own Backpack™!,https://thunderstore.io/c/valheim/p/Smoothbrain/Backpacks/
+Smoothbrain,Blacksmithing,1.3.2,Yes,Adds a skill that increases the durability of armor and weapons and other perks for blacksmithing.,https://thunderstore.io/c/valheim/p/Smoothbrain/Blacksmithing/
+Smoothbrain,Building,1.2.5,Yes,Adds a skill that increases the health of pieces built by you.,https://thunderstore.io/c/valheim/p/Smoothbrain/Building/
+Smoothbrain,Cooking,1.2.1,Yes,"Adds a skill that increases health, stamina, eitr and HP regeneration for cooked food.",https://thunderstore.io/c/valheim/p/Smoothbrain/Cooking/
+Smoothbrain,DualWield,1.0.9,Yes,"Twice the weapons, twice the fun.",https://thunderstore.io/c/valheim/p/Smoothbrain/DualWield/
+Smoothbrain,Foraging,1.0.9,Yes,Adds a skill that increases item yield while foraging and makes berries and mushrooms respawn faster.,https://thunderstore.io/c/valheim/p/Smoothbrain/Foraging/
+Smoothbrain,Lumberjacking,1.0.5,Yes,Replaces the wood cutting skill with a Lumberjacking skill.,https://thunderstore.io/c/valheim/p/Smoothbrain/Lumberjacking/
+Smoothbrain,Mining,1.1.5,Yes,Adds a skill that increases damage dealt while mining and item yield from ore deposits.,https://thunderstore.io/c/valheim/p/Smoothbrain/Mining/
+Smoothbrain,Network,1.0.2,Yes,Uncaps the sending and receiving limit for network traffic.,https://thunderstore.io/c/valheim/p/Smoothbrain/Network/
+Smoothbrain,Ranching,1.1.3,Yes,Adds a skill that makes taming animals faster and increases item yield of tamed creatures.,https://thunderstore.io/c/valheim/p/Smoothbrain/Ranching/
+Smoothbrain,Sailing,1.1.7,Yes,"Adds a skill that increases the health of ships, sailing speed and exploration radius while sailing.",https://thunderstore.io/c/valheim/p/Smoothbrain/Sailing/
+TastyChickenLegs,LongerDays,1.1.1,Yes,Updated for Ashlands. Change speed of the day.  SpeedRate is by default 50% or twice as long days.,https://thunderstore.io/c/valheim/p/TastyChickenLegs/LongerDays/
+Therzie,Armory,1.3.1,Yes,Adds the Armory forge that offers new variants of original armors that upgrade to the next biome.,https://thunderstore.io/c/valheim/p/Therzie/Armory/
+Therzie,Monstrum,1.5.1,Yes,Adds new monsters and mini-bosses to fight and tame for original Valheim up till Mistlands.,https://thunderstore.io/c/valheim/p/Therzie/Monstrum/
+Therzie,Warfare,1.8.9,Yes,Fills the weapon and shields gap in vanilla Valheim and with MANY new weapons and unique extras!,https://thunderstore.io/c/valheim/p/Therzie/Warfare/
+ValheimModding,Jotunn,2.27.0,Yes,"Jötunn (/ˈjɔːtʊn/, 'giant'), the Valheim Library was created with the goal of making the lives of mod developers easier. It enables you to create mods for Valheim using an abstracted API so you can focus on the actual content creation.",https://thunderstore.io/c/valheim/p/ValheimModding/Jotunn/
+ValheimModding,JsonDotNET,13.0.4,Yes,"Shared version 13.0.3 of Json.NET from Newtonsoft, net45 package for use in Valheim mods. Maintained by the ValheimModding team.",https://thunderstore.io/c/valheim/p/ValheimModding/JsonDotNET/
+ValheimModding,YamlDotNet,16.3.1,Yes,"Shared version 16.3.0 of YamlDotNet from Antoine Aubry and contributors, net47 package for use in Valheim mods. Maintained by the ValheimModding team.",https://thunderstore.io/c/valheim/p/ValheimModding/YamlDotNet/
+Vapok,ShieldMeBruh,1.1.2,Yes,A Valheim Quality of Life Mod that will auto equip a selected shield when a one-handed weapon is equipped. I need a shield! Shield me Bruh!,https://thunderstore.io/c/valheim/p/Vapok/ShieldMeBruh/
+VentureValheim,Meadingful_Icons,0.2.0,Yes,"Adds identifiers to the different mead base icons in the game. Increases the maximum stack size of mead bases, configurable.",https://thunderstore.io/c/valheim/p/VentureValheim/Meadingful_Icons/
+VentureValheim,Venture_Multiplayer_Tweaks,0.11.7,Yes,"Commonly requested tweaks for servers and single player modes. Toggle the Valkyrie opening, track Hugin tutorials, customize arrival messages, hide the Trader/Temple map pins, PVP options, disable pings, and more!",https://thunderstore.io/c/valheim/p/VentureValheim/Venture_Multiplayer_Tweaks/
+VentureValheim,World_Advancement_Progression,0.3.11,Yes,"Control skill levels, trader items, and manage world and individual player keys! Lock different actions behind an enforced boss progression to control the rate at which players advance.",https://thunderstore.io/c/valheim/p/VentureValheim/World_Advancement_Progression/
+warpalicious,Blackforest_Pack_1,1.1.2,Yes,Adds 9 new custom locations to the Blackforest biome. Part of the More World Locations series,https://thunderstore.io/c/valheim/p/warpalicious/Blackforest_Pack_1/
+warpalicious,Meadows_Pack_1,1.1.3,Yes,Adds 10 new custom locations to the Meadows biome. Part of the More World Locations series,https://thunderstore.io/c/valheim/p/warpalicious/Meadows_Pack_1/
+warpalicious,Mistlands_Pack_1,1.1.5,Yes,Adds 10 new custom locations to the Mistlands biome. Part of the More World Locations series,https://thunderstore.io/c/valheim/p/warpalicious/Mistlands_Pack_1/
+warpalicious,More_World_Traders,1.0.11,Yes,Adds 7 new traders with unique items only available via purchase.,https://thunderstore.io/c/valheim/p/warpalicious/More_World_Traders/
+warpalicious,Mountains_Pack_1,1.1.4,Yes,Adds 9 new custom locations to the Mountains biome. Part of the More World Locations series,https://thunderstore.io/c/valheim/p/warpalicious/Mountains_Pack_1/
+warpalicious,Plains_Pack_1,1.1.3,Yes,Adds 11 new custom locations to the Plains biome. Part of the More World Locations series,https://thunderstore.io/c/valheim/p/warpalicious/Plains_Pack_1/
+warpalicious,Swamp_Pack_1,1.2.2,Yes,Adds 18 new custom locations to the Swamp biome. Part of the More World Locations series,https://thunderstore.io/c/valheim/p/warpalicious/Swamp_Pack_1/
+warpalicious,Underground_Ruins,1.0.8,Yes,"Adds a new Blackforest dungeon with puzzles, randomly generated layouts, and vanilla-friendly progression.",https://thunderstore.io/c/valheim/p/warpalicious/Underground_Ruins/
+Yggdrah,BetterRiding,1.2.8,Yes,"Better Mount Riding, Mount Attack and Flying Experience",https://thunderstore.io/c/valheim/p/Yggdrah/BetterRiding/
